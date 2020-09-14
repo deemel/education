@@ -1,2 +1,2 @@
 # education
-Collection of some course assignments I have completed.
+Collection of course assignments I have completed.
