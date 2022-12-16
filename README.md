@@ -1,2 +1,2 @@
 # education
-Collection of course assignments I have completed.
+Collection of solutions to course assignments.
